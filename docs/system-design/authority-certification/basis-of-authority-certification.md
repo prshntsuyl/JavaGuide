@@ -109,9 +109,9 @@ public String readAllCookies(HttpServletRequest request) {
 
 另外，Spring Session提供了一种跨多个应用程序或实例管理用户会话信息的机制。如果想详细了解可以查看下面几篇很不错的文章：
 
-- [Getting Started with Spring Session](https://codeboje.de/spring-session-tutorial/)
-- [Guide to Spring Session](https://www.baeldung.com/spring-session)
-- [Sticky Sessions with Spring Session & Redis](https://medium.com/@gvnix/sticky-sessions-with-spring-session-redis-bdc6f7438cc3)
+- [x] [Getting Started with Spring Session](https://codeboje.de/spring-session-tutorial/)
+- [ ] [Guide to Spring Session](https://www.baeldung.com/spring-session)
+- [ ] [Sticky Sessions with Spring Session & Redis](https://medium.com/@gvnix/sticky-sessions-with-spring-session-redis-bdc6f7438cc3)
 
 ## 4.如果没有Cookie的话Session还能用吗？
 
@@ -196,10 +196,10 @@ OAuth 2.0 比较常用的场景就是第三方登录，当你的网站接入了�
 
 **推荐阅读：**
 
-- [OAuth 2.0 的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
-- [10 分钟理解什么是 OAuth 2.0 协议](https://deepzz.com/post/what-is-oauth2-protocol.html)
-- [OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)
-- [GitHub OAuth 第三方登录示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
+- [x] [OAuth 2.0 的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
+- [ ] [10 分钟理解什么是 OAuth 2.0 协议](https://deepzz.com/post/what-is-oauth2-protocol.html)
+- [x] [OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)
+- [ ] [GitHub OAuth 第三方登录示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
 
 ## 8 什么是 SSO?
 
@@ -211,6 +211,6 @@ OAuth 是一个行业的标准授权协议，主要用来授权第三方应用�
 
 ## 参考
 
-- https://medium.com/@sherryhsu/session-vs-token-based-authentication-11a6c5ac45e4
+- [x] https://medium.com/@sherryhsu/session-vs-token-based-authentication-11a6c5ac45e4
 - https://www.varonis.com/blog/what-is-oauth/
 - https://tools.ietf.org/html/rfc6749
