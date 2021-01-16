@@ -135,7 +135,7 @@
 - **图解数据结构：**
   - [ ] [线性数据结构 :数组、链表、栈、队列](docs/dataStructures-algorithms/data-structure/线性数据结构.md)
   - [x] [Graphs](docs/dataStructures-algorithms/data-structure/图.md)
-- [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
+- [x] [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
 
 ### 算法
 
