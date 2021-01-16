@@ -142,7 +142,7 @@
 算法这部分内容非常重要，如果你不知道如何学习算法的话，可以看下我写的：
 
 - [算法学习书籍+资源推荐](https://www.zhihu.com/question/323359308/answer/1545320858) 。
-- [如何刷Leetcode?](https://www.zhihu.com/question/31092580/answer/1534887374) 
+- [如何刷Leetcode?](https://github.com/prshntsuyl/fucking-algorithm/tree/english) 
 
 **常见算法问题总结：**
 
