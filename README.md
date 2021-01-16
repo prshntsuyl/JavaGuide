@@ -137,7 +137,7 @@
   - [x] [Graphs](docs/dataStructures-algorithms/data-structure/图.md)
 - [x] [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
 
-### - 算法
+### Algorithms
 
 算法这部分内容非常重要，如果你不知道如何学习算法的话，可以看下我写的：
 
@@ -146,9 +146,9 @@
 
 **常见算法问题总结：**
 
-- [几道常见的字符串算法题总结 ](docs/dataStructures-algorithms/几道常见的子符串算法题.md)
-- [几道常见的链表算法题总结 ](docs/dataStructures-algorithms/几道常见的链表算法题.md)
-- [剑指 offer 部分编程题](docs/dataStructures-algorithms/剑指offer部分编程题.md)
+- [ ] [几道常见的字符串算法题总结 ](docs/dataStructures-algorithms/几道常见的子符串算法题.md)
+- [ ] [几道常见的链表算法题总结 ](docs/dataStructures-algorithms/几道常见的链表算法题.md)
+- [ ] [剑指 offer 部分编程题](docs/dataStructures-algorithms/剑指offer部分编程题.md)
 
 ## 数据库
 
