@@ -102,7 +102,7 @@
 
 ### JVM (必看 :+1:)
 
-- [ ] **[Java 内存区域](docs/java/jvm/Java内存区域.md)**
+- [x] **[Java memory area](docs/java/jvm/Java内存区域.md)**
 - [ ] **[JVM 垃圾回收](docs/java/jvm/JVM垃圾回收.md)**
 - [ ] [JDK 监控和故障处理工具](docs/java/jvm/JDK监控和故障处理工具总结.md)
 - [ ] [类文件结构](docs/java/jvm/类文件结构.md)
