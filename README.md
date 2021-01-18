@@ -19,7 +19,7 @@
   - [ ] [MySQL](#mysql)
   - [ ] [Redis](#redis)
 - [ ] [System design](#系统设计)
-  - [ ] [编码之道(必看 :+1:)](#编码之道必看-1)
+  - [x] [Way of Coding(必看 :+1:)](#编码之道必看-1)
   - [ ] [常用框架](#常用框架)
     - [ ] [Spring/SpringBoot](#springspringboot)
     - [ ] [MyBatis](#mybatis)
