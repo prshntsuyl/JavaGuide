@@ -186,37 +186,38 @@
 
 ### 常用框架
 
+- [ ] J2EE
 如果你没有接触过 Java Web 开发的话，可以先看一下我总结的 [《J2EE 基础知识》](docs/java/J2EE基础知识.md) 。虽然，这篇文章中的很多内容已经淘汰，但是可以让你对 Java 后台技术发展有更深的认识。
 
 #### Spring/SpringBoot (必看 :+1:)
 
 **知识点/面试题:** 
 
-1. **[Spring 常见问题总结](docs/system-design/framework/spring/Spring常见问题总结.md)**
-2. **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
+1. [ ] **[Spring 常见问题总结](docs/system-design/framework/spring/Spring常见问题总结.md)**
+2. [ ] **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
 
 **重要知识点详解：**
 
-1. **[Spring/Spring 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
-2. **[Spring 事务总结](docs/system-design/framework/spring/Spring事务总结.md)** 
-3. [Spring 中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
+1. [ ] **[Spring/Spring 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
+2. [ ] **[Spring 事务总结](docs/system-design/framework/spring/Spring事务总结.md)** 
+3. [ ] [Spring 中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
 
 #### MyBatis
 
-- [MyBatis 常见面试题总结](docs/system-design/framework/mybatis/mybatis-interview.md)
+- [ ] [MyBatis 常见面试题总结](docs/system-design/framework/mybatis/mybatis-interview.md)
 
 #### Netty (必看 :+1:)
 
-1. [剖析面试最常见问题之 Netty（上）](https://xiaozhuanlan.com/topic/4028536971)
-2. [剖析面试最常见问题之 Netty（下）](https://xiaozhuanlan.com/topic/3985146207)
+1. [ ] [剖析面试最常见问题之 Netty（上）](https://xiaozhuanlan.com/topic/4028536971)
+2. [ ] [剖析面试最常见问题之 Netty（下）](https://xiaozhuanlan.com/topic/3985146207)
 
 #### ZooKeeper
 
 > 前两篇文章可能有内容重合部分，推荐都看一遍。
 
-1. [【入门】ZooKeeper 相关概念总结](docs/system-design/distributed-system/zookeeper/zookeeper-intro.md)
-2. [【进阶】ZooKeeper 相关概念总结](docs/system-design/distributed-system/zookeeper/zookeeper-plus.md)
-3. [【实战】ZooKeeper 实战](docs/system-design/distributed-system/zookeeper/zookeeper-in-action.md)
+1. [ ] [【入门】ZooKeeper 相关概念总结](docs/system-design/distributed-system/zookeeper/zookeeper-intro.md)
+2. [ ] [【进阶】ZooKeeper 相关概念总结](docs/system-design/distributed-system/zookeeper/zookeeper-plus.md)
+3. [ ] [【实战】ZooKeeper 实战](docs/system-design/distributed-system/zookeeper/zookeeper-in-action.md)
 
 ### 认证授权
 
