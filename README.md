@@ -18,7 +18,7 @@
 - [ ] [数据库](#数据库)
   - [ ] [MySQL](#mysql)
   - [ ] [Redis](#redis)
-- [ ] [系统设计](#系统设计)
+- [ ] [System design](#系统设计)
   - [ ] [编码之道(必看 :+1:)](#编码之道必看-1)
   - [ ] [常用框架](#常用框架)
     - [ ] [Spring/SpringBoot](#springspringboot)
@@ -179,9 +179,9 @@
 
 ### 编码之道(必看 :+1:)
 
-1. [RestFul API 简明教程](docs/system-design/coding-way/RESTfulAPI简明教程.md)
-2. [Java 编程规范以及优雅 Java 代码实践总结](docs/java/Java编程规范.md)
-3. [Java 命名之道](docs/system-design/naming.md)
+- [x] [RestFul API 简明教程](docs/system-design/coding-way/RESTfulAPI简明教程.md)
+- [ ] [Java 编程规范以及优雅 Java 代码实践总结](docs/java/Java编程规范.md)
+- [ ] [Java 命名之道](docs/system-design/naming.md)
 
 ### 常用框架
 
