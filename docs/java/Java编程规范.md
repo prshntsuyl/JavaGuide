@@ -8,7 +8,8 @@
 
 ### 个人
 
-- **程序员你为什么这么累:** <https://xwjie.github.io/rule/>
+- [ ] **程序员你为什么这么累:** <https://xwjie.github.io/rule/>
+    - looks good to read upon
 
 ### 如何写出优雅的 Java 代码
 
