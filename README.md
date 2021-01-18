@@ -180,7 +180,8 @@
 ### 编码之道(必看 :+1:)
 
 - [x] [RestFul API 简明教程](docs/system-design/coding-way/RESTfulAPI简明教程.md)
-- [ ] [Java 编程规范以及优雅 Java 代码实践总结](docs/java/Java编程规范.md)
+- [x] [Java 编程规范以及优雅 Java 代码实践总结](docs/java/Java编程规范.md)
+	- Some nice to know blog reads pending (0/2)
 - [ ] [Java 命名之道](docs/system-design/naming.md)
 
 ### 常用框架
